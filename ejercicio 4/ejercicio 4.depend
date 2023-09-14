@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693974205 source:c:\users\gasty\onedrive\escritorio\utn\programacion y laboratorio 2\listas\ejercicio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
